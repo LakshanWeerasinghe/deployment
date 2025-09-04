@@ -1,0 +1,12 @@
+[package]
+org = "lakshanweerasinghe"
+name = "deployment"
+version = "0.1.0"
+title = "deployment"
+
+[build-options]
+sticky = true
+[[tool.openapi]]
+id = "WeatherAPI"
+targetModule = "WeatherAPI"
+filePath = "/Users/lakshanweerasinghe/Documents/demo/openapi_specs/weather11.yaml"
