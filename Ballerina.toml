@@ -9,4 +9,4 @@ sticky = true
 [[tool.openapi]]
 id = "WeatherAPI"
 targetModule = "WeatherAPI"
-filePath = "/Users/lakshanweerasinghe/Documents/demo/openapi_specs/weather11.yaml"
+filePath = "./resources/weather11.yaml"
